@@ -1,0 +1,8 @@
+{
+  "title": "EOS 账户创建",
+  "description": "<p>自EOS网络诞生之日起，新用户的账户创建就一直是一个难题。随着RAM 的价格高升，这个问题变得日益严重。</p><p>本网站由 <offline>Offline Studio</offline>开发运营，旨在将免费EOS 账户分发予有需要的人手中以降低新用户的准入门槛。</p>",
+  "footer.tip": "祝您一切顺利！",
+  "guide.title": "获取免费 EOS 账户",
+  "guide.description": "您只需访问下方的 Telegram 机器人（EOS Helper）并按照说明操作，创建 EOS 账户从未如此简单。",
+  "guide.alert": "请记住，务必将您的私钥秘密且安全地保存。"
+}
